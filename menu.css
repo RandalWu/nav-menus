@@ -51,11 +51,14 @@ header{
 }
 .menu-h{
     width: 100%;
+    text-align: center;
 }
     .menu-h li{
         display: inline;
         list-style-type: none;
         width: 20%;
+        text-align: center;
+        float: left;
         /* style the list items to remove the bullets 
         and line up horizontally
         and take up 20% of the width of the ul */
